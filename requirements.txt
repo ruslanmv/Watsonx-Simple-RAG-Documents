@@ -1,0 +1,8 @@
+pdfplumber
+transformers
+sentence-transformers
+langchain
+streamlit
+tqdm
+python-dotenv
+ibm-watson-machine-learning

@@ -1,0 +1,9 @@
+# Environments
+.env
+apikey.json
+
+/.venv
+ 
+*.pid
+*.log
+/__pycache__
